@@ -7,3 +7,9 @@ body{
 .headCenter{
     text-align: center;
 }
+
+.TabLeft{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
