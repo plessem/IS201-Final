@@ -34,6 +34,10 @@ a:visited{
     font-size: 17px;
 }
 
+.spacing{
+    padding-left: 20px;
+}
+
 /*footer div*/
 .footer{
     text-align: center;
