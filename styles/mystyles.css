@@ -7,12 +7,10 @@ body{
 
 
 /*about me page*/
-/*overwriting number 1*/
 h1{
     font-family: 'Times New Roman', Times, serif;
 }
 
-/*overwriting number 2*/
 li{
     padding-bottom: 15px;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -33,7 +31,6 @@ li{
     padding-bottom: 30px;
 }
 
-/*overwriting number 3*/
 .contact{
     padding-top: 20px;
     padding-bottom: 20px;
@@ -41,9 +38,17 @@ li{
     font-style: oblique;
 }
 
-/*overwriting number 4*/
 .notBold{
     font-weight: normal;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.size{
+    font-size:larger;
+    text-decoration: underline;
 }
 
 
@@ -59,4 +64,8 @@ li{
 
 .paddingBottom{
     padding-bottom: 30px;
+}
+
+img{
+    border: 3px solid rgb(46, 46, 46);
 }
