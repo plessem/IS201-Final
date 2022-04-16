@@ -1,0 +1,62 @@
+/*styles page for the about and index pages*/
+
+/*both pages custom background*/
+body{
+    background-color: ghostwhite;
+}
+
+
+/*about me page*/
+/*overwriting number 1*/
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/*overwriting number 2*/
+li{
+    padding-bottom: 15px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+/*custom styles on about me page*/
+.paddingSpace{
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.paddingOver{
+    padding-top: 30px;
+}
+
+.paddingUnder{
+    padding-bottom: 30px;
+}
+
+/*overwriting number 3*/
+.contact{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+}
+
+/*overwriting number 4*/
+.notBold{
+    font-weight: normal;
+}
+
+
+/*index page*/
+.intro{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(62, 45, 71);
+}
+
+.paddingButton{
+    padding-top: 60px;
+}
+
+.paddingBottom{
+    padding-bottom: 30px;
+}
